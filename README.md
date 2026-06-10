@@ -10,15 +10,15 @@ Projeto desenvolvido durante um hackathon acadêmico da disciplina de Introduç�
 
 
 
-\- Abrir caixa
+\* Abrir caixa
 
-\- Cadastrar produtos
+\* Cadastrar produtos
 
-\- Registrar compras
+\* Registrar compras
 
-\- Emitir cupom fiscal
+\* Emitir cupom fiscal
 
-\- Fechar caixa
+\* Fechar caixa
 
 
 
@@ -26,7 +26,7 @@ Projeto desenvolvido durante um hackathon acadêmico da disciplina de Introduç�
 
 
 
-\- Linguagem C
+\* Linguagem C
 
 
 
@@ -34,15 +34,15 @@ Projeto desenvolvido durante um hackathon acadêmico da disciplina de Introduç�
 
 
 
-\- Structs
+\* Structs
 
-\- Funções
+\* Funções
 
-\- Vetores
+\* Vetores
 
-\- Validação de entrada
+\* Validação de entrada
 
-\- Modularização
+\* Modularização
 
 
 
@@ -50,9 +50,13 @@ Projeto desenvolvido durante um hackathon acadêmico da disciplina de Introduç�
 
 
 
+```bash
+
 gcc Hackaton.c -o caixa
 
-
-
 ./caixa
+
+```
+
+
 
